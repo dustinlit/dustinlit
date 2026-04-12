@@ -32,10 +32,6 @@ Greetings, I’m a geospatial and natural resources analytics specialist with a 
     Burn Severity & Vegetation Mortality Report
   </a>
 </p>
-  <a href="https://dustinlit.github.io/Beachie-Creek-LiDAR-Postfire-Analysis/">
-    Beachie Creek LiDAR Post‑Fire Analysis
-  </a>
-</p>
 <!-- Beachie Creek Burn Severity -->
 <p align="center">
   <img src="Severity_Beachie.jpg" width="320">
