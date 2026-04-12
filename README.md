@@ -22,6 +22,11 @@ Greetings, I’m a geospatial and natural resources analytics specialist with a 
   </a>
 </p>
 
+
+<!-- Beachie Creek Burn Severity -->
+<p align="center">
+  <img src="Severity_Beachie.jpg" width="320">
+</p>
 <p>
   <strong>Remote Sensing Assessment of Burn Severity and Vegetation Mortality in the 2020 Beachie Creek–Lionshead Complex Fire</strong><br>
   A multi‑sensor burn severity and vegetation mortality assessment using Landsat and terrain derivatives.<br>
@@ -33,6 +38,25 @@ Greetings, I’m a geospatial and natural resources analytics specialist with a 
   </a>
 </p>
 
+<!-- Dixie Fire Severity -->
+<p align="center">
+  <img src="Severity_Dixie.jpg" width="320">
+</p>
+<p>
+  <strong>Dixie Fire Burn Severity Analysis</strong><br>
+  A burn severity assessment using Landsat‑based NBR differencing and USGS severity classification.<br>
+  <strong>Tools:</strong> ArcGIS Pro | Landsat 8 | NBR/dNBR | USGS Burn Severity Classification<br>
+  <strong>Focus:</strong> wildfire | burn severity | remote sensing<br>
+  <strong>Report:</strong>
+  <a href="https://dustinlit.github.io/Dixie-Fire-Burn-Severity-Analysis/">
+    Dixie Fire Burn Severity Report
+  </a>
+</p>
+
+<!-- California ML Wildfire Ignition -->
+<p align="center">
+  <img src="Califonria_ML.png" width="420">
+</p>
 <p>
   <strong>Geospatial Machine Learning Pipeline for Wildfire Ignition Risk in California</strong><br>
   A machine‑learning analysis of six years of California wildfire ignition patterns using weather, vegetation, topography, infrastructure, and demographic predictors.<br>
@@ -44,6 +68,10 @@ Greetings, I’m a geospatial and natural resources analytics specialist with a 
   </a>
 </p>
 
+<!-- Pennsylvania Hydrology -->
+<p align="center">
+  <img src="PA_Watershed.jpg" width="320">
+</p>
 <p>
   <strong>Random Forest–Based Streamflow Forecasting Using Long‑Term Climate and Hydrologic Data in Pennsylvania</strong><br>
   A machine‑learning hydrologic model predicting streamflow using climate and watershed predictors.<br>
@@ -55,6 +83,10 @@ Greetings, I’m a geospatial and natural resources analytics specialist with a 
   </a>
 </p>
 
+<!-- Atlanta Urban Growth -->
+<p align="center">
+  <img src="Atlanta_Hot_Spot.jpg" width="320">
+</p>
 <p>
   <strong>Land‑Cover Classification and Change Detection of Urban Growth in the Atlanta Metropolitan Region (1999–2021)</strong><br>
   A two‑decade land‑cover change detection project mapping urban growth and spatial transitions.<br>
