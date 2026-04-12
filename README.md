@@ -36,6 +36,7 @@ Greetings, I’m a geospatial and natural resources analytics specialist with a 
 <p align="center">
   <img src="Severity_Beachie.jpg" width="320">
 </p>
+
 <p>
   <strong>Dixie Fire Burn Severity Analysis</strong><br>
   A burn severity assessment using Landsat‑based NBR differencing and USGS severity classification.<br>
