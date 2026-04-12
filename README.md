@@ -32,8 +32,9 @@ Greetings, I’m a geospatial and natural resources analytics specialist with a 
     Burn Severity & Vegetation Mortality Report
   </a>
 </p>
+
 <p align="center">
-<img src="../dustinlit/Images/Severity_Beachie.jpg" width="320">
+<img src="../dustinlit/Images/Severity_Beachie.jpeg" width="320">
 </p>
 
 <p>
@@ -46,6 +47,7 @@ Greetings, I’m a geospatial and natural resources analytics specialist with a 
     Dixie Fire Burn Severity Report
   </a>
 </p>
+
 <!-- Dixie Fire Severity -->
 <p align="center">
   <img src="../dustinlit/Images/Severity_Dixie.jpg" width="320">
@@ -81,6 +83,7 @@ Greetings, I’m a geospatial and natural resources analytics specialist with a 
 <p align="center">
   <img src="../dustinlit/Images/PA_Watershed.jpg" width="320">
 </p>
+
   <strong>Land‑Cover Classification and Change Detection of Urban Growth in the Atlanta Metropolitan Region (1999–2021)</strong><br>
   A two‑decade land‑cover change detection project mapping urban growth and spatial transitions.<br>
   <strong>Tools:</strong> ArcGIS Pro | Landsat 7/8 | Unsupervised Classification | Raster Analysis<br>
@@ -90,6 +93,7 @@ Greetings, I’m a geospatial and natural resources analytics specialist with a 
     Atlanta Urban Growth Change Detection
   </a>
 </p>
+
 <!-- Atlanta Urban Growth -->
 <p align="center">
   <img src="../dustinlit/Images/Atlanta_Hot_Spot.jpg" width="320">
