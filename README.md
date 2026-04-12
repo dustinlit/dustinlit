@@ -34,7 +34,7 @@ Greetings, I’m a geospatial and natural resources analytics specialist with a 
 </p>
 
 <p align="center">
-<img src="../dustinlit/images/Severity_Beachie.jpeg" width="320">
+<img src="images/Severity_Beachie.jpeg" width="320">
 </p>
 
 
@@ -51,7 +51,7 @@ Greetings, I’m a geospatial and natural resources analytics specialist with a 
 
 <!-- Dixie Fire Severity -->
 <p align="center">
-  <img src="../dustinlit/images/Severity_Dixie.jpg" width="320">
+  <img src="images/Severity_Dixie.jpg" width="320">
 </p>
 
   <strong>Geospatial Machine Learning Pipeline for Wildfire Ignition Risk in California</strong><br>
@@ -66,7 +66,7 @@ Greetings, I’m a geospatial and natural resources analytics specialist with a 
 
 <!-- California ML Wildfire Ignition -->
 <p align="center">
-  <img src="../dustinlit/images/California_ML.png" width="420">
+  <img src="images/California_ML.png" width="420">
 </p>
 <p>
 
@@ -82,7 +82,7 @@ Greetings, I’m a geospatial and natural resources analytics specialist with a 
 
 <!-- Pennsylvania Hydrology -->
 <p align="center">
-  <img src="../dustinlit/images/PA_Watershed.jpg" width="320">
+  <img src="images/PA_Watershed.jpg" width="320">
 </p>
 
   <strong>Land‑Cover Classification and Change Detection of Urban Growth in the Atlanta Metropolitan Region (1999–2021)</strong><br>
@@ -97,7 +97,7 @@ Greetings, I’m a geospatial and natural resources analytics specialist with a 
 
 <!-- Atlanta Urban Growth -->
 <p align="center">
-  <img src="../dustinlit/images/Atlanta_Hot_Spot.jpg" width="320">
+  <img src="images/Atlanta_Hot_Spot.jpg" width="320">
 </p>
 
 <h2>Technical Skills</h2>
