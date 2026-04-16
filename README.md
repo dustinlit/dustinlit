@@ -24,7 +24,7 @@ Greetings, I’m a geospatial and natural resources analytics specialist with a 
 
 <p>
   <strong>Remote Sensing Assessment of Burn Severity and Vegetation Mortality in the 2020 Beachie Creek–Lionshead Complex Fire</strong><br>
-  A multi‑sensor burn severity and vegetation mortality assessment using Landsat and terrain derivatives.<br>
+  This analysis of the Beachie Creek–Lionshead Complex Fire uses pre- and post-fire Sentinel-2 sattelite imagery to assess vegetation mortality and burn severity. Results show that approximately 50% of old-growth forest within the study area experienced mortality, indicating significant vulnerability under extreme fire conditions. Burn severity is highly heterogeneous, forming a mosaic of high and low impact areas. Even within similar forest types, burn severity varies significantly, suggesting that local conditions such as fuel structure, topography, and fire behavior play a major role in determining outcomes.<br>
   <strong>Tools:</strong> ArcGIS Pro | Landsat 8 | NDVI/NBR/dNBR | USGS Burn Severity Classification | Terrain Derivatives<br>
   <strong>Focus:</strong> wildfire | burn severity | vegetation mortality | remote sensing<br>
   <strong>Report:</strong>
@@ -40,7 +40,7 @@ Greetings, I’m a geospatial and natural resources analytics specialist with a 
 
 <p>
   <strong>Dixie Fire Burn Severity Analysis</strong><br>
-  A burn severity assessment using Landsat‑based NBR differencing and USGS severity classification.<br>
+  This project analyzes burn severity patterns from the 2021 Dixie Fire using remote sensing classification methods. Results show a highly heterogeneous burn pattern, with substantial regions of high-severity fire distributed across the landscape. These patterns suggest that burn severity is strongly influenced by pre-fire forest structure, accessibility, and fuel conditions rather than fire behavior alone. The analysis also highlights the limitations of spectral classification methods in capturing structural vegetation damage.<br>
   <strong>Tools:</strong> ArcGIS Pro | Landsat 8 | NBR/dNBR | USGS Burn Severity Classification<br>
   <strong>Focus:</strong> wildfire | burn severity | remote sensing<br>
   <strong>Report:</strong>
@@ -55,7 +55,7 @@ Greetings, I’m a geospatial and natural resources analytics specialist with a 
 </p>
 
   <strong>Geospatial Machine Learning Pipeline for Wildfire Ignition Risk in California</strong><br>
-  A machine‑learning analysis of six years of California wildfire ignition patterns using weather, vegetation, topography, infrastructure, and demographic predictors.<br>
+  This project develops a machine learning model to predict wildfire ignition probability across California using environmental and spatial features. Results show that ignition risk is spatially structured rather than random, with model performance indicating a strong influence from human-related variables alongside environmental conditions. The analysis highlights the limitations of using environmental variables alone and the challenges posed by class imbalance in rare-event prediction. Rather than precise event prediction, the model is most effective as a probabilistic risk mapping tool, identifying areas of elevated ignition likelihood.<br>
   <strong>Tools:</strong> Python | scikit‑learn | Pandas | rasterio | ArcGIS Pro<br>
   <strong>Focus:</strong> wildfire ignition | ML modeling | environmental analytics<br>
   <strong>Report:</strong>
@@ -71,7 +71,7 @@ Greetings, I’m a geospatial and natural resources analytics specialist with a 
 <p>
 
   <strong>Random Forest–Based Streamflow Forecasting Using Long‑Term Climate and Hydrologic Data in Pennsylvania</strong><br>
-  A machine‑learning hydrologic model predicting streamflow using climate and watershed predictors.<br>
+  This project develops a machine learning model to forecast streamflow in Pennsylvania using time-series environmental data. Results show that streamflow is strongly time-dependent, with lagged variables playing a critical role in prediction. The model captures nonlinear relationships between environmental inputs and flow, but performance varies across conditions, with reduced accuracy during extreme events and longer forecast horizons. These findings highlight both the strengths and limitations of machine learning approaches for modeling complex hydrologic systems.<br>
   <strong>Tools:</strong> ArcGIS Pro | Space Time Cube | Forest‑Based Forecast | TerraClimate<br>
   <strong>Focus:</strong> hydrology | ML | environmental modeling<br>
   <strong>Report:</strong>
@@ -86,7 +86,7 @@ Greetings, I’m a geospatial and natural resources analytics specialist with a 
 </p>
 
   <strong>Land‑Cover Classification and Change Detection of Urban Growth in the Atlanta Metropolitan Region (1999–2021)</strong><br>
-  A two‑decade land‑cover change detection project mapping urban growth and spatial transitions.<br>
+  This project applies GIS-based change detection techniques to quantify urban expansion in the Atlanta metropolitan area using multi-temporal satellite imagery. Results show that urban growth is spatially uneven and primarily concentrated in suburban and peri-urban regions, consistent with outward sprawl rather than infill development. While remote sensing classification effectively captures broad-scale land cover transitions, it also highlights limitations in resolving fine-grained urban heterogeneity. These findings demonstrate how geospatial analysis can be used to measure and interpret patterns of urban growth over time.<br>
   <strong>Tools:</strong> ArcGIS Pro | Landsat 7/8 | Unsupervised Classification | Raster Analysis<br>
   <strong>Focus:</strong> land cover classification | ML | urban development<br>
   <strong>Report:</strong>
