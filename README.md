@@ -137,12 +137,12 @@ Greetings, I’m a geospatial and natural resources analytics specialist with a 
 
 <p>
   <strong>LiDAR Workflow Development:</strong>
-  Building a publication‑ready workflow for canopy height modeling, terrain differencing, and forest structure metrics using PDAL and ArcGIS Pro.
+  Building a workflow for canopy height modeling, terrain differencing, and forest structure metrics using LP360 and ArcGIS Pro.
 </p>
 
 <p>
   <strong>Wildfire Analytics:</strong>
-  Expanding multi‑sensor burn severity and vegetation mortality methods across additional fire footprints, with a focus on spectral indices and terrain‑driven patterns.
+  In addition to utilizing environmental data in machine learning for wildfire analysis, I am concrentrating on multi-sensor analysis of burn severity and vegetation mortality, with a focus on spectral indices and terrain‑driven patterns and integrating LIDAR to estimate the impacts of vertical structures and ladder fuels.
 </p>
 
 <p>
@@ -157,6 +157,6 @@ Greetings, I’m a geospatial and natural resources analytics specialist with a 
 
 <p>
   <strong>Portfolio Expansion:</strong>
-  Refining project documentation, semantic HTML structure, and map presentation for a clean, recruiter‑ready portfolio.
+  Refining existing project documentation, home page layout, project summaries, and map presentations for a clean portfolio.
 </p>
 
