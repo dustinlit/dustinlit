@@ -7,7 +7,7 @@
 
 
 ## About Me
-Greetings, I’m a geospatial and natural resources analytics specialist with a strong foundation in data science and graduate‑level remote sensing. After over a decade in medical laboratory science, I transitioned into geospatial data science to focus on natural resource management, geospatial analytics, and clear technical communication. Currently, for remote sensing coursework at Penn State, I am developing LiDAR workflows for wildfire‑affected forest structure in Orergon, which includes terrain modeling, canopy height metrics, and environmental impact analysis. My strengths include producing geospatial data science pipelines, LiDAR processing, and generating clear practical insights from complex, spatial data.
+Greetings, I’m a geospatial analytics specialist foucsed on natural resources with a strong foundation in data science and graduate‑level remote sensing. After over a decade in medical laboratory science, I transitioned into geospatial data science to focus on natural resource management, geospatial analytics, and clear technical communication. Currently, for remote sensing coursework at Penn State, I am developing LiDAR workflows for wildfire‑affected forest structure in Orergon, which includes terrain modeling, canopy height metrics, and environmental impact analysis. My strengths include producing geospatial data science pipelines, LiDAR processing, and generating clear practical insights from complex, spatial data.
 
 <h2>Featured Projects</h2>
 
