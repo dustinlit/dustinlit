@@ -37,23 +37,6 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 <img src="images/Severity_Beachie.jpeg" width="320">
 </p>
 
-
-<p>
-  <strong>Dixie Fire Burn Severity Analysis</strong><br>
-  This project analyzes burn severity patterns from the 2021 Dixie Fire using spectral indices from Landsat satellites. Results show a highly heterogeneous burn pattern, with regions of high-severity fire concentrated in regions with steeper slopes and less access for firefighting and prevention efforts. <br>
-  <strong>Tools:</strong> ArcGIS Pro | Landsat 8 | NBR/dNBR | USGS Burn Severity Classification<br>
-  <strong>Focus:</strong> Wildfire | Burn Severity |Remote Sensing<br>
-  <strong>Report:</strong>
-  <a href="https://dustinlit.github.io/Dixie-Fire-Burn-Severity-Analysis/">
-    Dixie Fire Burn Severity Report
-  </a>
-</p>
-
-<!-- Dixie Fire Severity -->
-<p align="center">
-  <img src="images/Severity_Dixie.jpg" width="320">
-</p>
-
   <strong>Geospatial Machine Learning Pipeline for Wildfire Ignition Risk in California</strong><br>
   This project develops a machine learning model data pipeline to predict wildfire ignition probability across California using environmental, demographic, topographical, and spatial features. Results show that ignition risk is highest in wildland-urban interface zones, where the density of roads and population traverse rural forests. Key environmental drivers include indicators of prolonged dryness and other long term moisture deficits. <br>
   <strong>Tools:</strong> Python | Scikit‑learn | Pandas | Rasterio | ArcGIS Pro<br>
@@ -70,21 +53,6 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 </p>
 <p>
 
-  <strong>Random Forest–Based Streamflow Forecasting Using Long‑Term Climate and Hydrologic Data in Pennsylvania</strong><br>
-  This project develops a machine learning model to forecast streamflow in Pennsylvania using time-series environmental data. Results demonstrate that streamflow is strongly time-dependent, with lagged variables playing a critical role in prediction. The model captures nonlinear relationships between environmental inputs and flow, but performance varies across conditions, with reduced accuracy during extreme events and longer forecast horizons. These findings highlight both the strengths and limitations of machine learning approaches for modeling complex hydrologic systems.<br>
-  <strong>Tools:</strong> ArcGIS Pro | Space Time Cube | Forest‑Based Forecast | TerraClimate<br>
-  <strong>Focus:</strong> Hydrology | ML | Environmental Modeling<br>
-  <strong>Report:</strong>
-  <a href="https://dustinlit.github.io/Pennsylvania-Hydrology-ML-Streamflow-Forecasting/">
-    Pennsylvania Streamflow Forecasting
-  </a>
-</p>
-
-<!-- Pennsylvania Hydrology -->
-<p align="center">
-  <img src="images/PA_Watershed.jpg" width="320">
-</p>
-
   <strong>Land‑Cover Classification and Change Detection of Urban Growth in the Atlanta Metropolitan Region (1999–2021)</strong><br>
   This project applies GIS-based change detection techniques to quantify urban expansion in the Atlanta metropolitan area using multi-temporal satellite imagery. Results show that urban growth is spatially uneven and primarily concentrated in suburban and peri-urban regions, consistent with outward sprawl rather than infill development. While remote sensing classification effectively captures broad-scale land cover transitions, it also highlights limitations in resolving fine-grained urban heterogeneity. These findings demonstrate how geospatial analysis can be used to measure and interpret patterns of urban growth over time.<br>
   <strong>Tools:</strong> ArcGIS Pro | Landsat 7/8 | Unsupervised Classification | Raster Analysis<br>
@@ -98,6 +66,36 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 <!-- Atlanta Urban Growth -->
 <p align="center">
   <img src="images/Atlanta_Hot_Spot.jpg" width="320">
+</p>
+<p>
+  <strong>Dixie Fire Burn Severity Analysis</strong><br>
+  This project analyzes burn severity patterns from the 2021 Dixie Fire using spectral indices from Landsat satellites. Results show a highly heterogeneous burn pattern, with regions of high-severity fire concentrated in regions with steeper slopes and less access for firefighting and prevention efforts. <br>
+  <strong>Tools:</strong> ArcGIS Pro | Landsat 8 | NBR/dNBR | USGS Burn Severity Classification<br>
+  <strong>Focus:</strong> Wildfire | Burn Severity |Remote Sensing<br>
+  <strong>Report:</strong>
+  <a href="https://dustinlit.github.io/Dixie-Fire-Burn-Severity-Analysis/">
+    Dixie Fire Burn Severity Report
+  </a>
+</p>
+
+<!-- Dixie Fire Severity -->
+<p align="center">
+  <img src="images/Severity_Dixie.jpg" width="320">
+</p>
+
+  <strong>Random Forest–Based Streamflow Forecasting Using Long‑Term Climate and Hydrologic Data in Pennsylvania</strong><br>
+  This project develops a machine learning model to forecast streamflow in Pennsylvania using time-series environmental data. Results demonstrate that streamflow is strongly time-dependent, with lagged variables playing a critical role in prediction. The model captures nonlinear relationships between environmental inputs and flow, but performance varies across conditions, with reduced accuracy during extreme events and longer forecast horizons. These findings highlight both the strengths and limitations of machine learning approaches for modeling complex hydrologic systems.<br>
+  <strong>Tools:</strong> ArcGIS Pro | Space Time Cube | Forest‑Based Forecast | TerraClimate<br>
+  <strong>Focus:</strong> Hydrology | ML | Environmental Modeling<br>
+  <strong>Report:</strong>
+  <a href="https://dustinlit.github.io/Pennsylvania-Hydrology-ML-Streamflow-Forecasting/">
+    Pennsylvania Streamflow Forecasting
+  </a>
+</p>
+
+<!-- Pennsylvania Hydrology -->
+<p align="center">
+  <img src="images/PA_Watershed.jpg" width="320">
 </p>
 
 <h2>Technical Skills</h2>
