@@ -24,7 +24,7 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 
 <p>
   <strong>Remote Sensing Assessment of Burn Severity and Vegetation Mortality in the 2020 Beachie Creek–Lionshead Complex Fire</strong><br>
-  This analysis utilizes pre- and post-fire Sentinel-2 sattelite imagery to assess vegetation mortality and burn severity of the Beachie Creek–Lionshead Complex Fire. Results show that approximately 50% of old-growth forest within the study area experienced mortality. Burn severity is highly heterogeneous, even within similar forest types, burn severity varies significantly, suggesting that local conditions such as fuel structure and topography play a major role in determining outcomes.<br>
+  This analysis utilizes pre- and post-fire Sentinel-2 satellite imagery to assess vegetation mortality and burn severity of the Beachie Creek–Lionshead Complex Fire. Results show that approximately 50% of old-growth forest within the study area experienced mortality. Burn severity shows a majority of moderate to severely burned clusters centered around Santiam Canyon. <br>
   <strong>Tools:</strong> ArcGIS Pro | Landsat 8 | NDVI/NBR/dNBR | USGS Burn Severity Classification | Terrain Derivatives<br>
   <strong>Focus:</strong> Wildfire | Burn Severity | Vegetation Mortality | Remote Sensing<br>
   <strong>Report:</strong>
@@ -40,7 +40,7 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 
 <p>
   <strong>Dixie Fire Burn Severity Analysis</strong><br>
-  This project analyzes burn severity patterns from the 2021 Dixie Fire using remote sensing classification methods. Results show a highly heterogeneous burn pattern, with substantial regions of high-severity fire distributed across the landscape. These patterns suggest that burn severity is strongly influenced by pre-fire forest structure, accessibility, and fuel conditions rather than fire behavior alone. The analysis also highlights the limitations of spectral classification methods in capturing structural vegetation damage.<br>
+  This project analyzes burn severity patterns from the 2021 Dixie Fire using spectral indices from Landsat satellites. Results show a highly heterogeneous burn pattern, with regions of high-severity fire concentrated in regions with steeper slopes and less access for firefighting and prevention efforts. <br>
   <strong>Tools:</strong> ArcGIS Pro | Landsat 8 | NBR/dNBR | USGS Burn Severity Classification<br>
   <strong>Focus:</strong> Wildfire | Burn Severity |Remote Sensing<br>
   <strong>Report:</strong>
@@ -55,7 +55,7 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 </p>
 
   <strong>Geospatial Machine Learning Pipeline for Wildfire Ignition Risk in California</strong><br>
-  This project develops a machine learning model to predict wildfire ignition probability across California using environmental and spatial features. Results show that ignition risk is spatially structured rather than random, with model performance indicating a strong influence from human-related variables alongside environmental conditions. The analysis highlights the limitations of using environmental variables alone and the challenges posed by class imbalance in rare-event prediction. Rather than precise event prediction, the model is most effective as a probabilistic risk mapping tool, identifying areas of elevated ignition likelihood.<br>
+  This project develops a machine learning model data pipeline to predict wildfire ignition probability across California using environmental, demographic, topographical, and spatial features. Results show that ignition risk is highest in wildland-urban interface zones, where the density of roads and population traverse rural forests. Key environmental drivers include indicators of prolonged dryness and other long term moisture deficits. <br>
   <strong>Tools:</strong> Python | Scikit‑learn | Pandas | Rasterio | ArcGIS Pro<br>
   <strong>Focus:</strong> Wildfire | ML Modeling | Environmental Analytics | Multidimensional Data<br>
   <strong>Report:</strong>
@@ -71,7 +71,7 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 <p>
 
   <strong>Random Forest–Based Streamflow Forecasting Using Long‑Term Climate and Hydrologic Data in Pennsylvania</strong><br>
-  This project develops a machine learning model to forecast streamflow in Pennsylvania using time-series environmental data. Results show that streamflow is strongly time-dependent, with lagged variables playing a critical role in prediction. The model captures nonlinear relationships between environmental inputs and flow, but performance varies across conditions, with reduced accuracy during extreme events and longer forecast horizons. These findings highlight both the strengths and limitations of machine learning approaches for modeling complex hydrologic systems.<br>
+  This project develops a machine learning model to forecast streamflow in Pennsylvania using time-series environmental data. Results demonstrate that streamflow is strongly time-dependent, with lagged variables playing a critical role in prediction. The model captures nonlinear relationships between environmental inputs and flow, but performance varies across conditions, with reduced accuracy during extreme events and longer forecast horizons. These findings highlight both the strengths and limitations of machine learning approaches for modeling complex hydrologic systems.<br>
   <strong>Tools:</strong> ArcGIS Pro | Space Time Cube | Forest‑Based Forecast | TerraClimate<br>
   <strong>Focus:</strong> Hydrology | ML | Environmental Modeling<br>
   <strong>Report:</strong>
