@@ -38,7 +38,7 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 </p>
 
   <strong>Geospatial Machine Learning Pipeline for Wildfire Ignition Risk in California</strong><br>
-  This project develops a machine learning model data pipeline to predict wildfire ignition probability across California using environmental, demographic, topographical, and spatial features. Results show that ignition risk is highest in wildland-urban interface zones, where the density of roads and population traverse rural forests. Key environmental drivers include indicators of prolonged dryness and other long term moisture deficits. <br>
+  This project is archived and was not carried through to a final production model due to storage and time constraints while shifting into LiDAR‑focused research. Even so, it represents a key milestone in my data science training. The final build implements a machine learning model data pipeline to predict wildfire ignition probability across California using environmental, demographic, topographical, and spatial features. Results show that ignition risk is highest in wildland-urban interface zones, where the density of roads and population traverse rural forests. Key environmental drivers include indicators of prolonged dryness and other long term moisture deficits. <br>
   <strong>Tools:</strong> Python | Scikit‑learn | Pandas | Rasterio | ArcGIS Pro<br>
   <strong>Focus:</strong> Wildfire | ML Modeling | Environmental Analytics | Multidimensional Data<br>
   <strong>Report:</strong>
