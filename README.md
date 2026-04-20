@@ -24,7 +24,7 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 
 <p>
   <strong>Remote Sensing Assessment of Burn Severity and Vegetation Mortality in the 2020 Beachie Creek–Lionshead Complex Fire</strong><br>
-  This analysis utilizes pre- and post-fire Sentinel-2 sattelite imagery to assess vegetation mortality and burn severity of the Beachie Creek–Lionshead Complex Fire. Results show that approximately 50% of old-growth forest within the study area experienced mortality. Burn severity is highly heterogeneous, forming a mosaic of high and low impact areas. Even within similar forest types, burn severity varies significantly, suggesting that local conditions such as fuel structure, topography, and fire behavior play a major role in determining outcomes.<br>
+  This analysis utilizes pre- and post-fire Sentinel-2 sattelite imagery to assess vegetation mortality and burn severity of the Beachie Creek–Lionshead Complex Fire. Results show that approximately 50% of old-growth forest within the study area experienced mortality. Burn severity is highly heterogeneous, even within similar forest types, burn severity varies significantly, suggesting that local conditions such as fuel structure and topography play a major role in determining outcomes.<br>
   <strong>Tools:</strong> ArcGIS Pro | Landsat 8 | NDVI/NBR/dNBR | USGS Burn Severity Classification | Terrain Derivatives<br>
   <strong>Focus:</strong> Wildfire | Burn Severity | Vegetation Mortality | Remote Sensing<br>
   <strong>Report:</strong>
