@@ -2,7 +2,7 @@
   Dustin Littlefield
 </h1>
 <p align="center" style="margin-top:-5;">
-  Geospatial & Environmental Analytics • LiDAR • Remote Sensing
+  Spatial Data Science • Remote Sensing • LiDAR • Environmental Modeling
 </p>
 
 
