@@ -25,7 +25,7 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 </p>
 
 <p align="center">
-  <img src="images/Severity_Beachie.jpeg" width="320">
+  <img src="images/lidar.jpg" width="320">
 </p>
 
 
