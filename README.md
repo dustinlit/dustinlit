@@ -11,9 +11,6 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 
 <h2>Featured Projects</h2>
 
-<p align="center">
-  <img src="images/lidar.jpg" width="320">
-</p>
 <!-- Burn Severity & Vegetation Mortality -->
 <p style="margin-top: 28px;">
   <strong style="font-size: 1.15em;">Remote Sensing Assessment of Burn Severity and Vegetation Mortality in the 2020 Beachie Creek–Lionshead Complex Fire</strong><br>
@@ -60,6 +57,10 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
   <a href="https://dustinlit.github.io/Beachie-Creek-LiDAR-Postfire-Analysis/">
     Beachie Creek LiDAR Post‑Fire Analysis
   </a>
+</p>
+
+<p align="center">
+  <img src="images/lidar.jpg" width="320">
 </p>
 
 <!-- Atlanta Urban Growth -->
