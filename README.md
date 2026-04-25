@@ -11,6 +11,9 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 
 <h2>Featured Projects</h2>
 
+<p align="center">
+  <img src="images/lidar.jpg" width="320">
+</p>
 <!-- Burn Severity & Vegetation Mortality -->
 <p style="margin-top: 28px;">
   <strong style="font-size: 1.15em;">Remote Sensing Assessment of Burn Severity and Vegetation Mortality in the 2020 Beachie Creek–Lionshead Complex Fire</strong><br>
@@ -46,6 +49,18 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
   <img src="images/California_ML.png" width="420">
 </p>
 
+<!-- LiDAR Post-Fire Forest Structure -->
+<p style="margin-top: 28px;">
+  <strong style="font-size: 1.15em;">LIDAR Post‑Fire Forest Structure Analysis (In Progress)</strong><br>
+  <strong>Last Updated:</strong> March 2026 <br>
+  A LiDAR‑based workflow for canopy height modeling, terrain differencing, and vegetation structure metrics in wildfire‑affected landscapes. This project focuses on quantifying canopy loss, structural change, and terrain exposure following the 2020 Beachie Creek Fire using LP360 and ArcGIS Pro. <br>
+  <strong>Tools:</strong> LP360 | Raster Generation | ArcGIS Pro | 3D Structural Analysis <br>
+  <strong>Focus:</strong> LiDAR | Wildfire | Forest Structure <br>
+  <strong>Report:</strong>
+  <a href="https://dustinlit.github.io/Beachie-Creek-LiDAR-Postfire-Analysis/">
+    Beachie Creek LiDAR Post‑Fire Analysis
+  </a>
+</p>
 
 <!-- Atlanta Urban Growth -->
 <p style="margin-top: 28px;">
@@ -98,23 +113,6 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 
 <p align="center">
   <img src="images/PA_Watershed.jpg" width="320">
-</p>
-
-<!-- LiDAR Post-Fire Forest Structure -->
-<p style="margin-top: 28px;">
-  <strong style="font-size: 1.15em;">LIDAR Post‑Fire Forest Structure Analysis (In Progress)</strong><br>
-  <strong>Last Updated:</strong> March 2026 <br>
-  A LiDAR‑based workflow for canopy height modeling, terrain differencing, and vegetation structure metrics in wildfire‑affected landscapes. This project focuses on quantifying canopy loss, structural change, and terrain exposure following the 2020 Beachie Creek Fire using LP360 and ArcGIS Pro. <br>
-  <strong>Tools:</strong> LP360 | Raster Generation | ArcGIS Pro | 3D Structural Analysis <br>
-  <strong>Focus:</strong> LiDAR | Wildfire | Forest Structure <br>
-  <strong>Report:</strong>
-  <a href="https://dustinlit.github.io/Beachie-Creek-LiDAR-Postfire-Analysis/">
-    Beachie Creek LiDAR Post‑Fire Analysis
-  </a>
-</p>
-
-<p align="center">
-  <img src="images/lidar.jpg" width="320">
 </p>
 
 <h2>Technical Skills</h2>
