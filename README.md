@@ -14,7 +14,7 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 <!-- Burn Severity & Vegetation Mortality -->
 <p style="margin-top: 28px;">
   <strong style="font-size: 1.15em;">Remote Sensing Assessment of Burn Severity and Vegetation Mortality in the 2020 Beachie Creek–Lionshead Complex Fire</strong><br>
-  <strong>Last Updated:</strong> March 2026 <br>
+  <strong>Completed: </strong> March 2026 <br>
   This analysis utilizes pre‑ and post‑fire Sentinel‑2 satellite imagery to assess vegetation mortality and burn severity across the Beachie Creek–Lionshead Complex Fire. Results show that approximately 50% of old‑growth forest within the study area experienced mortality, with moderate to severe burn clusters concentrated around Santiam Canyon. <br>
   <strong>Tools:</strong> ArcGIS Pro | Landsat 8 | NDVI/NBR/dNBR | USGS Burn Severity Classification | Terrain Derivatives <br>
   <strong>Focus:</strong> Wildfire | Burn Severity | Vegetation Mortality | Remote Sensing <br>
@@ -32,7 +32,7 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 <!-- California Wildfire Ignition ML -->
 <p style="margin-top: 28px;">
   <strong style="font-size: 1.15em;">Geospatial Machine Learning Pipeline for Wildfire Ignition Risk in California</strong><br>
-  <strong>Last Updated:</strong> 2025 <br>
+  <strong>Archived:</strong> December 2025 <br>
   This archived project implements a machine learning pipeline to model wildfire ignition probability across California using environmental, demographic, topographic, and spatial predictors. Results highlight elevated ignition risk in wildland‑urban interface zones, driven by road density, population gradients, and long‑term moisture deficits. <br>
   <strong>Tools:</strong> Python | Scikit‑learn | Pandas | Rasterio | ArcGIS Pro <br>
   <strong>Focus:</strong> Wildfire | ML Modeling | Environmental Analytics | Multidimensional Data <br>
@@ -49,7 +49,7 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 <!-- LiDAR Post-Fire Forest Structure -->
 <p style="margin-top: 28px;">
   <strong style="font-size: 1.15em;">LIDAR Post‑Fire Forest Structure Analysis (In Progress)</strong><br>
-  <strong>Last Updated:</strong> March 2026 <br>
+  <strong>Last Updated:</strong> April 2026 <br>
   A LiDAR‑based workflow for canopy height modeling, terrain differencing, and vegetation structure metrics in wildfire‑affected landscapes. This project focuses on quantifying canopy loss, structural change, and terrain exposure following the 2020 Beachie Creek Fire using LP360 and ArcGIS Pro. <br>
   <strong>Tools:</strong> LP360 | Raster Generation | ArcGIS Pro | 3D Structural Analysis <br>
   <strong>Focus:</strong> LiDAR | Wildfire | Forest Structure <br>
@@ -66,7 +66,7 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 <!-- Atlanta Urban Growth -->
 <p style="margin-top: 28px;">
   <strong style="font-size: 1.15em;">Land‑Cover Classification and Change Detection of Urban Growth in the Atlanta Metropolitan Region (1999–2021)</strong><br>
-  <strong>Last Updated:</strong> 2024 <br>
+  <strong>Completed:</strong> February 2026 <br>
   A multi‑temporal land‑cover change detection analysis mapping two decades of urban expansion in the Atlanta metropolitan region. Results show outward suburban growth patterns and spatially uneven development, highlighting the strengths and limitations of remote sensing for capturing fine‑scale urban heterogeneity. <br>
   <strong>Tools:</strong> ArcGIS Pro | Landsat 7/8 | Unsupervised Classification | Raster Analysis <br>
   <strong>Focus:</strong> Land Cover Classification | ML | Urban Development <br>
@@ -84,7 +84,7 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 <!-- Dixie Fire -->
 <p style="margin-top: 28px;">
   <strong style="font-size: 1.15em;">Dixie Fire Burn Severity Analysis</strong><br>
-  <strong>Last Updated:</strong> 2024 <br>
+  <strong>Completed:</strong> February 2026 <br>
   A burn severity assessment of the 2021 Dixie Fire using Landsat‑derived spectral indices. Results reveal highly heterogeneous burn patterns, with high‑severity zones concentrated in steep terrain and areas with limited access for suppression efforts. <br>
   <strong>Tools:</strong> ArcGIS Pro | Landsat 8 | NBR/dNBR | USGS Burn Severity Classification <br>
   <strong>Focus:</strong> Wildfire | Burn Severity | Remote Sensing <br>
@@ -102,7 +102,7 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 <!-- Pennsylvania Hydrology -->
 <p style="margin-top: 28px;">
   <strong style="font-size: 1.15em;">Random Forest–Based Streamflow Forecasting Using Long‑Term Climate and Hydrologic Data in Pennsylvania</strong><br>
-  <strong>Last Updated:</strong> 2024 <br>
+  <strong>Completed:</strong> March 2026 <br>
   A machine learning model forecasting streamflow using long‑term climate and watershed variables. The model captures nonlinear hydrologic relationships and highlights the importance of lagged predictors, with performance varying across hydrologic conditions and extreme events. <br>
   <strong>Tools:</strong> ArcGIS Pro | Space Time Cube | Forest‑Based Forecast | TerraClimate <br>
   <strong>Focus:</strong> Hydrology | ML | Environmental Modeling <br>
