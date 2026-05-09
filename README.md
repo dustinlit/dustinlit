@@ -49,7 +49,7 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 <!-- LiDAR Post-Fire Forest Structure -->
 <p style="margin-top: 28px;">
   <strong style="font-size: 1.15em;">LIDAR Post‑Fire Forest Structure Analysis (In Progress)</strong><br>
-  <strong>Last Updated:</strong> April 2026 <br>
+  <strong>Last Updated:</strong> May 2026 <br>
   A LiDAR‑based workflow for canopy height modeling, terrain differencing, and vegetation structure metrics in wildfire‑affected landscapes. This project focuses on quantifying canopy loss, structural change, and terrain exposure following the 2020 Beachie Creek Fire using LP360 and ArcGIS Pro. <br>
   <strong>Tools:</strong> LP360 | Raster Generation | ArcGIS Pro | 3D Structural Analysis <br>
   <strong>Focus:</strong> LiDAR | Wildfire | Forest Structure <br>
