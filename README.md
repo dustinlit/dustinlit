@@ -43,7 +43,7 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 
 <p align="center">
   <img src="images/Severity_Beachie.jpeg" width="320">
-</p>
+  </p>>
 
 <!-- Atlanta Urban Growth -->
 <p style="margin-top: 28px;">
@@ -113,6 +113,20 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 <p align="center">
   <img src="images/PA_Watershed.jpg" width="320">
 </p>
+
+
+## Additional Projects
+
+- **[Satellite Land‑Cover Classification (ML)](https://dustinlit.github.io/Satellite-Land-Cover-Classification-ML/)** — Supervised Sentinel‑2 land‑cover classification using machine learning.
+
+- **[Iowa Crop Classification & NDVI Analysis](https://dustinlit.github.io/Iowa-Crop-Classification-NDVI-Analysis/)** — Corn/soybean classification and NDVI‑based vegetation health mapping.
+
+- **[Geospatial Map Gallery](https://dustinlit.github.io/Geospatial-Map-Gallery/)** — Curated gallery of cartographic products across multiple domains.
+
+- **[Spatial Regression Analysis (Milwaukee)](https://dustinlit.github.io/Spatial_Regression_Milwaukee/)** — Regression and spatial autocorrelation analysis of socioeconomic patterns.
+
+- **[Dogs 101 Navigation App](https://dustinlit.github.io/Dogs101/)** — Python geospatial app mapping 228 dog‑friendly locations with routing.
+
 
 <h2>Technical Skills</h2>
 
