@@ -11,41 +11,6 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 
 <h2>Featured Projects</h2>
 
-<!-- Burn Severity & Vegetation Mortality -->
-<p style="margin-top: 28px;">
-  <strong style="font-size: 1.15em;">Remote Sensing Assessment of Burn Severity and Vegetation Mortality in the 2020 Beachie Creek–Lionshead Complex Fire</strong><br>
-  <strong>Completed: </strong> March 2026 <br>
-  This analysis utilizes pre‑ and post‑fire Sentinel‑2 satellite imagery to assess vegetation mortality and burn severity across the Beachie Creek–Lionshead Complex Fire. Results show that approximately 50% of old‑growth forest within the study area experienced mortality, with moderate to severe burn clusters concentrated around Santiam Canyon. <br>
-  <strong>Tools:</strong> ArcGIS Pro | Landsat 8 | NDVI/NBR/dNBR | USGS Burn Severity Classification | Terrain Derivatives <br>
-  <strong>Focus:</strong> Wildfire | Burn Severity | Vegetation Mortality | Remote Sensing <br>
-  <strong>Report:</strong>
-  <a href="https://dustinlit.github.io/Burn-Severity-and-Vegetation-Mortality-Analysis-of-the-Beachie-Creek-Lionshead-Complex-Fire/">
-    Burn Severity & Vegetation Mortality Report
-  </a>
-</p>
-
-<p align="center">
-  <img src="images/Severity_Beachie.jpeg" width="320">
-</p>
-
-
-<!-- California Wildfire Ignition ML -->
-<p style="margin-top: 28px;">
-  <strong style="font-size: 1.15em;">Geospatial Machine Learning Pipeline for Wildfire Ignition Risk in California</strong><br>
-  <strong>Archived:</strong> December 2025 <br>
-  This archived project implements a machine learning pipeline to model wildfire ignition probability across California using environmental, demographic, topographic, and spatial predictors. Results highlight elevated ignition risk in wildland‑urban interface zones, driven by road density, population gradients, and long‑term moisture deficits. <br>
-  <strong>Tools:</strong> Python | Scikit‑learn | Pandas | Rasterio | ArcGIS Pro <br>
-  <strong>Focus:</strong> Wildfire | ML Modeling | Environmental Analytics | Multidimensional Data <br>
-  <strong>Report:</strong>
-  <a href="https://dustinlit.github.io/California-Wildfire-Ignition-ML-Modeling/">
-    California Wildfire Ignition ML Modeling
-  </a>
-</p>
-
-<p align="center">
-  <img src="images/California_ML.png" width="420">
-</p>
-
 <!-- LiDAR Post-Fire Forest Structure -->
 <p style="margin-top: 28px;">
   <strong style="font-size: 1.15em;">LIDAR Post‑Fire Forest Structure Analysis (In Progress)</strong><br>
@@ -61,6 +26,23 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 
 <p align="center">
   <img src="images/Ravine_Before_and_After.jpg" width="520">
+</p>
+
+<!-- Burn Severity & Vegetation Mortality -->
+<p style="margin-top: 28px;">
+  <strong style="font-size: 1.15em;">Remote Sensing Assessment of Burn Severity and Vegetation Mortality in the 2020 Beachie Creek–Lionshead Complex Fire</strong><br>
+  <strong>Completed: </strong> March 2026 <br>
+  This analysis utilizes pre‑ and post‑fire Sentinel‑2 satellite imagery to assess vegetation mortality and burn severity across the Beachie Creek–Lionshead Complex Fire. Results show that approximately 50% of old‑growth forest within the study area experienced mortality, with moderate to severe burn clusters concentrated around Santiam Canyon. <br>
+  <strong>Tools:</strong> ArcGIS Pro | Landsat 8 | NDVI/NBR/dNBR | USGS Burn Severity Classification | Terrain Derivatives <br>
+  <strong>Focus:</strong> Wildfire | Burn Severity | Vegetation Mortality | Remote Sensing <br>
+  <strong>Report:</strong>
+  <a href="https://dustinlit.github.io/Burn-Severity-and-Vegetation-Mortality-Analysis-of-the-Beachie-Creek-Lionshead-Complex-Fire/">
+    Burn Severity & Vegetation Mortality Report
+  </a>
+</p>
+
+<p align="center">
+  <img src="images/Severity_Beachie.jpeg" width="320">
 </p>
 
 <!-- Atlanta Urban Growth -->
@@ -80,6 +62,22 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
   <img src="images/Atlanta_Hot_Spot.jpg" width="320">
 </p>
 
+<!-- California Wildfire Ignition ML -->
+<p style="margin-top: 28px;">
+  <strong style="font-size: 1.15em;">Geospatial Machine Learning Pipeline for Wildfire Ignition Risk in California</strong><br>
+  <strong>Archived:</strong> December 2025 <br>
+  This archived project implements a machine learning pipeline to model wildfire ignition probability across California using environmental, demographic, topographic, and spatial predictors. Results highlight elevated ignition risk in wildland‑urban interface zones, driven by road density, population gradients, and long‑term moisture deficits. <br>
+  <strong>Tools:</strong> Python | Scikit‑learn | Pandas | Rasterio | ArcGIS Pro <br>
+  <strong>Focus:</strong> Wildfire | ML Modeling | Environmental Analytics | Multidimensional Data <br>
+  <strong>Report:</strong>
+  <a href="https://dustinlit.github.io/California-Wildfire-Ignition-ML-Modeling/">
+    California Wildfire Ignition ML Modeling
+  </a>
+</p>
+
+<p align="center">
+  <img src="images/California_ML.png" width="420">
+</p>
 
 <!-- Dixie Fire -->
 <p style="margin-top: 28px;">
