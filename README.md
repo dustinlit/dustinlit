@@ -25,7 +25,7 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 </p>
 
 <p align="center">
-  <img src="images/Ravine_Before_and_After.jpg" width="520">
+  <img src="images/chm.jpg" width="520">
 </p>
 
 <!-- Burn Severity & Vegetation Mortality -->
