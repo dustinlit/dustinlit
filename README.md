@@ -13,9 +13,16 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 
 <p style="margin-top: 28px;">
   <strong style="font-size: 1.15em;">Waterloo-Park-LiDAR-Tree-Detection-Pipeline (In Progress)</strong><br>
-<a href="[Repository](https://github.com/dustinlit/Waterloo-Park-LiDAR-Tree-Detection)">
-https://github.com/dustinlit/Waterloo-Park-LiDAR-Tree-Detection
-  
+  <strong>Last Updated:</strong> May 2026 <br>
+  An exploration of machine learning techniques to detect and quantify individual trees in Waterloo Park in Lebanon, Oregon. <br>
+  <strong>Tools:</strong> LP360 | Python | ArcGIS Pro | Jupyter Notebooks  <br>
+  <strong>Focus:</strong> LiDAR | Forestry | Forest Identification | Machine Learning Classification <br>
+  <strong>Report:</strong>
+  <a href="https://github.com/dustinlit/Waterloo-Park-LiDAR-Tree-Detection">
+  Waterloo-Park-LiDAR-Tree-Detection-Pipeline
+    </a>
+</p>
+
 An exploration of machine learning techniques to detect and quantify individual trees in Waterloo Park in Lebanon, Oregon.
 
 <h2>Featured Projects</h2>
