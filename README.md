@@ -23,8 +23,6 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
     </a>
 </p>
 
-An exploration of machine learning techniques to detect and quantify individual trees in Waterloo Park in Lebanon, Oregon.
-
 <h2>Featured Projects</h2>
 
 <!-- LiDAR Post-Fire Forest Structure -->
