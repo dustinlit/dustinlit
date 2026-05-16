@@ -14,7 +14,7 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 <p style="margin-top: 28px;">
   <strong style="font-size: 1.15em;">Waterloo-Park-LiDAR-Tree-Detection-Pipeline (In Progress)</strong><br>
   <strong>Last Updated:</strong> May 2026 <br>
-  An exploration of machine learning techniques to detect and quantify individual trees in Waterloo Park in Lebanon, Oregon. <br>
+  An open exploration of multiple techniques to detect and quantify individual trees in Waterloo Park in Lebanon, Oregon. The goal is to experiment with and gain a greater understanding of the geometry, algorithms, and libraries associated with automated LiDAR point processing. <br>
   <strong>Tools:</strong> LP360 | Python | ArcGIS Pro | Jupyter Notebooks  <br>
   <strong>Focus:</strong> LiDAR | Forestry | Forest Identification | Machine Learning Classification <br>
   <strong>Report:</strong>
