@@ -34,6 +34,7 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
                 Waterloo-Park-LiDAR-Tree-Detection-Pipeline
                     </a>
                     </p>>
+</p>
 
 <h2>Featured Projects</h2>
 
