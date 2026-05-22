@@ -9,32 +9,6 @@
 ## About Me
 Greetings, I’m a geospatial analyst with a focus on natural resources. I have a strong educational foundation in data science, GIS, and graduate‑level remote sensing. After over a decade in medical laboratory science, I transitioned into geospatial data science to focus on natural resource management, geospatial analytics, and clear technical communication. Recently, for remote sensing coursework at Penn State, I developed LiDAR workflows for wildfire‑affected forest structure in Oregon. This includes developing terrain models, canopy height metrics, and conducting environmental impact analysis. My strengths include wrangling data, building geospatial data science pipelines, LiDAR processing, and generating practical insights from complex, spatial data.
 
-<h2>Current Projects</h2>
-
-<p style="margin-top: 28px;">
-  <strong style="font-size: 1.15em;">15-Minute Maps (In Progress)</strong><br>
-  <strong>Last Updated:</strong> May 2026 <br>
-  A dynamic mapping program for computing walking and biking isochrones and evaluating accessibility using the 15‑minute city model. This project allows for the rapid identification of deficit regions throughout Oregon cities and towns. Extra attention is given to identifying food and healthcare deserts. <br>
-  <strong>Tools:</strong> OSMnx | NetworkX | GeoPandas | Folium | Leaflet | Python | Jupyter Notebooks <br>
-  <strong>Focus:</strong> Accessibility Analysis | Isochrones | Urban Planning | Network Routing | 15‑Minute City <br>
-  <strong>Repo:</strong>
-  <a href="https://github.com/dustinlit/15_minute_maps">
-    15-Minute Maps
-  </a>
-</p>
-
-<p style="margin-top: 28px;">
-  <strong style="font-size: 1.15em;">Waterloo-Park-LiDAR-Tree-Detection-Pipeline (In Progress)</strong><br>
-    <strong>Last Updated:</strong> May 2026 <br>
-      An open exploration of multiple techniques to detect and quantify individual trees in Waterloo Park in Lebanon, Oregon. The goal is to experiment with and gain a greater understanding of the geometry, algorithms, and libraries associated with automated LiDAR point processing. <br>
-        <strong>Tools:</strong> LASpy | Rasterio | LP360 | Python | ArcGIS Pro | Jupyter Notebooks  <br>
-          <strong>Focus:</strong> LiDAR | Forestry | Forest Identification | Machine Learning Classification <br>
-            <strong>Repo:</strong>
-              <a href="https://github.com/dustinlit/Waterloo-Park-LiDAR-Tree-Detection">
-                Waterloo-Park-LiDAR-Tree-Detection-Pipeline
-                    </a>
-</p>
-
 <h2>Featured Projects</h2>
 
 <!-- LiDAR Post-Fire Forest Structure -->
@@ -140,6 +114,31 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
   <img src="images/PA_Watershed.jpg" width="320">
 </p>
 
+<h2>Current Projects</h2>
+
+<p style="margin-top: 28px;">
+  <strong style="font-size: 1.15em;">15-Minute Maps (In Progress)</strong><br>
+  <strong>Last Updated:</strong> May 2026 <br>
+  A dynamic mapping program for computing walking and biking isochrones and evaluating accessibility using the 15‑minute city model. This project allows for the rapid identification of deficit regions throughout Oregon cities and towns. Extra attention is given to identifying food and healthcare deserts. <br>
+  <strong>Tools:</strong> OSMnx | NetworkX | GeoPandas | Folium | Leaflet | Python | Jupyter Notebooks <br>
+  <strong>Focus:</strong> Accessibility Analysis | Isochrones | Urban Planning | Network Routing | 15‑Minute City <br>
+  <strong>Repo:</strong>
+  <a href="https://github.com/dustinlit/15_minute_maps">
+    15-Minute Maps
+  </a>
+</p>
+
+<p style="margin-top: 28px;">
+  <strong style="font-size: 1.15em;">Waterloo-Park-LiDAR-Tree-Detection-Pipeline (In Progress)</strong><br>
+    <strong>Last Updated:</strong> May 2026 <br>
+      An open exploration of multiple techniques to detect and quantify individual trees in Waterloo Park in Lebanon, Oregon. The goal is to experiment with and gain a greater understanding of the geometry, algorithms, and libraries associated with automated LiDAR point processing. <br>
+        <strong>Tools:</strong> LASpy | Rasterio | LP360 | Python | ArcGIS Pro | Jupyter Notebooks  <br>
+          <strong>Focus:</strong> LiDAR | Forestry | Forest Identification | Machine Learning Classification <br>
+            <strong>Repo:</strong>
+              <a href="https://github.com/dustinlit/Waterloo-Park-LiDAR-Tree-Detection">
+                Waterloo-Park-LiDAR-Tree-Detection-Pipeline
+                    </a>
+</p>
 
 ## Additional Projects
 
