@@ -27,24 +27,7 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 <p align="center">
   <img src="images/Severity_Beachie.jpeg" width="320">
   </p>
-
-<!-- Atlanta Urban Growth -->
-<p style="margin-top: 28px;">
-  <strong style="font-size: 1.15em;">Land‑Cover Classification and Change Detection of Urban Growth in the Atlanta Metropolitan Region (1999–2021)</strong><br>
-  <strong>Completed:</strong> February 2026 <br>
-  A multi‑temporal land‑cover change detection analysis mapping two decades of urban expansion in the Atlanta metropolitan region. Results show outward suburban growth patterns and spatially uneven development, highlighting the strengths and limitations of remote sensing for capturing fine‑scale urban heterogeneity. <br>
-  <strong>Tools:</strong> ArcGIS Pro | Landsat 7/8 | Unsupervised Classification | Raster Analysis <br>
-  <strong>Focus:</strong> Land Cover Classification | ML | Urban Development <br>
-  <strong>Report:</strong>
-  <a href="https://dustinlit.github.io/Atlanta-Urban-Sprawl-Change-Detection/">
-    Atlanta Urban Growth Change Detection
-  </a>
-</p>
-
-<p align="center">
-  <img src="images/Atlanta_Hot_Spot.jpg" width="320">
-</p>
-
+  
 <!-- LiDAR Post-Fire Forest Structure -->
 <p style="margin-top: 28px;">
   <strong style="font-size: 1.15em;">LIDAR Post‑Fire Forest Structure Analysis</strong><br>
@@ -60,6 +43,22 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 
 <p align="center">
   <img src="images/chm.jpg" width="520">
+</p>
+<!-- Atlanta Urban Growth -->
+<p style="margin-top: 28px;">
+  <strong style="font-size: 1.15em;">Land‑Cover Classification and Change Detection of Urban Growth in the Atlanta Metropolitan Region (1999–2021)</strong><br>
+  <strong>Completed:</strong> February 2026 <br>
+  A multi‑temporal land‑cover change detection analysis mapping two decades of urban expansion in the Atlanta metropolitan region. Results show outward suburban growth patterns and spatially uneven development, highlighting the strengths and limitations of remote sensing for capturing fine‑scale urban heterogeneity. <br>
+  <strong>Tools:</strong> ArcGIS Pro | Landsat 7/8 | Unsupervised Classification | Raster Analysis <br>
+  <strong>Focus:</strong> Land Cover Classification | ML | Urban Development <br>
+  <strong>Report:</strong>
+  <a href="https://dustinlit.github.io/Atlanta-Urban-Sprawl-Change-Detection/">
+    Atlanta Urban Growth Change Detection
+  </a>
+</p>
+
+<p align="center">
+  <img src="images/Atlanta_Hot_Spot.jpg" width="320">
 </p>
 
 <!-- California Wildfire Ignition ML -->
