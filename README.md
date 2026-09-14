@@ -96,23 +96,6 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 </p>
 
 
-<!-- Pennsylvania Hydrology -->
-<p style="margin-top: 28px;">
-  <strong style="font-size: 1.15em;">Random Forest–Based Streamflow Forecasting Using Long‑Term Climate and Hydrologic Data in Pennsylvania</strong><br>
-  <strong>Completed:</strong> March 2026 <br>
-  A machine learning model forecasting streamflow using long‑term climate and watershed variables. The model captures nonlinear hydrologic relationships and highlights the importance of lagged predictors, with performance varying across hydrologic conditions and extreme events. <br>
-  <strong>Tools:</strong> ArcGIS Pro | Space Time Cube | Forest‑Based Forecast | TerraClimate <br>
-  <strong>Focus:</strong> Hydrology | ML | Environmental Modeling <br>
-  <strong>Report:</strong>
-  <a href="https://dustinlit.github.io/Pennsylvania-Hydrology-ML-Streamflow-Forecasting/">
-    Pennsylvania Streamflow Forecasting
-  </a>
-</p>
-
-<p align="center">
-  <img src="images/PA_Watershed.jpg" width="320">
-</p>
-
 <h2>Current Projects</h2>
 
 <p style="margin-top: 28px;">
