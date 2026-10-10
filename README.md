@@ -11,6 +11,19 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 
 <h2>Featured Projects</h2>
 
+<!-- Cascade Connect -->
+<p style="margin-top: 28px;">
+  <strong style="font-size: 1.15em;">Remote Sensing Assessment of Burn Severity and Vegetation Mortality in the 2020 Beachie Creek–Lionshead Complex Fire</strong><br>
+  <strong>Completed: </strong> March 2026 <br>
+  An ArcGIS Online wildlife connectivity application for Linn County, Oregon <br>
+  <strong>Tools:</strong> ArcGIS Online Experience Builder | App Development | Wildlife Analysis | Collaborative operations <br>
+  <strong>Focus:</strong> Wildlife Connectivity | Urban Planning | Transportation Planning | Conservation Planning <br>
+  <strong>Report:</strong>
+  <a href="[Cascade Connect](https://experience.arcgis.com/experience/2c17b6f3c3914d459ff3954169acb1ca)">
+    Burn Severity & Vegetation Mortality Report
+  </a>
+</p>
+
 <!-- Burn Severity & Vegetation Mortality -->
 <p style="margin-top: 28px;">
   <strong style="font-size: 1.15em;">Remote Sensing Assessment of Burn Severity and Vegetation Mortality in the 2020 Beachie Creek–Lionshead Complex Fire</strong><br>
