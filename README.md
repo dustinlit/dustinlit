@@ -23,6 +23,7 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
     Cascade Connect
   </a>
 </p>
+<br>
 
 <!-- Burn Severity & Vegetation Mortality -->
 <p style="margin-top: 28px;">
