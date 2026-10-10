@@ -25,7 +25,7 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 </p>
 
 <p align="center">
-  <img src="images/Cascade_Connect_app.jpg" width="320">
+  <img src="Cascade_Connect_app.jpg" width="320">
   </p>
   
 <br>
