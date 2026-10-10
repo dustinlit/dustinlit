@@ -15,7 +15,7 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
 <p style="margin-top: 28px;">
   <strong style="font-size: 1.15em;">Cascade Connect</strong><br>
   <strong>In Progress: </strong> October 2026 <br>
-  An ArcGIS Online application to support wildlife connectivity and land-use planning decisions in Linn County, Oregon <br>
+  An ArcGIS Online application that supports wildlife connectivity and land-use planning decisions in Linn County, Oregon <br>
   <strong>Tools:</strong> ArcGIS Online Experience Builder | App Development | Wildlife Analysis | Stakeholder Collaboration <br>
   <strong>Focus:</strong> Wildlife Connectivity | Urban Planning | Transportation Planning | Conservation Planning <br>
   <strong>Application:</strong>
