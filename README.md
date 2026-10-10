@@ -23,6 +23,11 @@ Greetings, I’m a geospatial analyst with a focus on natural resources. I have 
     Cascade Connect
   </a>
 </p>
+
+<p align="center">
+  <img src="images/Cascade_Connect_app.jpg" width="320">
+  </p>
+  
 <br>
 
 <!-- Burn Severity & Vegetation Mortality -->
